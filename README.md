@@ -1,1 +1,1 @@
-# GeometricDeepLearning
+# GraphNeuralNets_studies
